@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018258738076",
+    "project_id": "bankingapp-374bc",
+    "storage_bucket": "bankingapp-374bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018258738076:android:c2925127e7cafc752f1659",
+        "android_client_info": {
+          "package_name": "vaishnaviseetharaman.bankingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018258738076-v5egqmpad82d5o4vlcc7g5pf31ce5b6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRa_EFEHMVpaWRqEtqDHEadhgUoqdqQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018258738076-v5egqmpad82d5o4vlcc7g5pf31ce5b6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
